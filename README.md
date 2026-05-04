@@ -26,7 +26,7 @@
   <p style="color: #FF3366; font-weight: bold;">&#x1f4cc; &#x49;&#x6d;&#x70;&#x6f;&#x72;&#x74;&#x61;&#x6e;&#x74;&#x20;&#x53;&#x74;&#x65;&#x70;&#x73;&#x3a;</p>
   <ul style="list-style-type: square;">
     <li>&#x45;&#x78;&#x74;&#x72;&#x61;&#x63;&#x74;&#x20;&#x6c;&#x69;&#x62;&#x69;&#x6c;&#x32;&#x63;&#x70;&#x70;&#x2e;&#x73;&#x6f;&#x20;&#x66;&#x72;&#x6f;&#x6d;&#x20;&#x74;&#x68;&#x65;&#x20;&#x67;&#x61;&#x6d;&#x65;&#x2e;</li>
-    <li>&#x55;&#x73;&#x65;&#x20;&#x74;&#x68;&#x69;&#x73;&#x20;&#x44;&#x75;&#x6d;&#x70;&#x65;&#x72;&#x20;&#x74;&#x6f;&#x20;&#x67;&#x65;&#x74;&#x20;&#x74;&#x68;&#x65;&#x20;&#x6f;&#x66;&#x66;&#x73;&#x65;&#x74;&#x73;&#x2e;</li>
+    <li>&#x55;&#x73;&#x65;&#x20;&#x74;&#x68;&#x69;&#x73;&#x20;&#x44;&#x75;&#x6d;&#x70;&#x20;&#x6f;&#x6e;&#x20;&#x41;&#x6e;&#x64;&#x72;&#x6f;&#x69;&#x64;&#x20;&#x74;&#x6f;&#x20;&#x67;&#x65;&#x74;&#x20;&#x74;&#x68;&#x65;&#x20;&#x6f;&#x66;&#x66;&#x73;&#x65;&#x74;&#x73;&#x2e;</li>
   </ul>
   <p><b>&#x45;&#x78;&#x61;&#x6d;&#x70;&#x6c;&#x65;&#x20;&#x4f;&#x66;&#x66;&#x73;&#x65;&#x74;&#x3a;</b> <code>&#x30;&#x78;&#x31;&#x41;&#x38;&#x46;&#x46;&#x44;&#x38;</code></p>
   <p><b>&#x42;&#x79;&#x74;&#x65;&#x73;&#x3a;</b><br>
@@ -53,7 +53,7 @@
 <ul>
   <li>&#x44;&#x75;&#x6d;&#x70;&#x20;&#x6c;&#x69;&#x62;&#x69;&#x6c;&#x32;&#x63;&#x70;&#x70;&#x2e;&#x73;&#x6f;&#x20;&#x65;&#x61;&#x73;&#x69;&#x6c;&#x79;</li>
   <li>&#x41;&#x75;&#x74;&#x6f;&#x6d;&#x61;&#x74;&#x69;&#x63;&#x20;&#x6d;&#x65;&#x74;&#x61;&#x64;&#x61;&#x74;&#x61;&#x20;&#x6c;&#x6f;&#x61;&#x64;&#x69;&#x6e;&#x67;</li>
-  <li>&#x47;&#x65;&#x6e;&#x65;&#x72;&#x61;&#x74;&#x65;&#x20;&#x64;&#x75;&#x6d;&#x70;&#x2e;&#x63;&#x73;&#x20;&#x61;&#x6e;&#x64;&#x20;&#x73;&#x63;&#x72;&#x69;&#x70;&#x74;&#x2e;&#x70;&#x79;&#x20;&#x66;&#x69;&#x6c;&#x65;&#x73;</li>
+  <li>&#x47;&#x65;&#x6e;&#x65;&#x72;&#x61;&#x74;&#x65;&#x20;&#x64;&#x75;&#x6d;&#x70;&#x20;&#x63;&#x73;&#x20;&#x61;&#x6e;&#x64;&#x20;&#x73;&#x63;&#x72;&#x69;&#x70;&#x74;&#x20;&#x70;&#x79;&#x20;&#x66;&#x69;&#x6c;&#x65;&#x73;</li>
   <li>&#x4e;&#x6f;&#x20;&#x50;&#x43;&#x20;&#x72;&#x65;&#x71;&#x75;&#x69;&#x72;&#x65;&#x64;&#x20;&#x2d;&#x20;&#x44;&#x75;&#x6d;&#x70;&#x20;&#x6f;&#x6e;&#x20;&#x41;&#x6e;&#x64;&#x72;&#x6f;&#x69;&#x64;</li>
 </ul>
 
@@ -65,8 +65,8 @@
   <a href="https://t.me/MODBASHA">
     <img src="https://img.shields.io/badge/Telegram-MOD%20BASHA-0078E7?style=for-the-badge&logo=telegram">
   </a>
-  <a href="https://whatsapp.com/channel/0029Vb7ydyT9Gv7VgRyTyG0U">
-    <img src="https://img.shields.io/badge/WhatsApp-Channel-25D366?style=for-the-badge&logo=whatsapp">
+  <a href="https://wa.me/qr/DDY2DPIILZ7NM1">
+    <img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp">
   </a>
 </div>
 
